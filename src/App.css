@@ -1,0 +1,42 @@
+.dropdown-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.departures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.departure {
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px lightgray;
+    padding: 10px;
+}
+
+.line-name {
+    font-weight: bold;
+    color: blue;
+}
+
+.direction {
+    font-style: italic;
+}
+
+.planned-time {
+    float: right;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
