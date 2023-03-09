@@ -25,4 +25,4 @@ Navigieren Sie in Ihrem Terminal zum Projektordner.
 
 Führen Sie den Befehl npm install aus, um die Abhängigkeiten des Projekts zu installieren.
 Führen Sie den Befehl npm start aus, um das Projekt lokal auszuführen.
-Beitrag
+
